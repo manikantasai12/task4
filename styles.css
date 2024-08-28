@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.calc{
+    margin-left: 40px;
+}
+
